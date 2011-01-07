@@ -1,10 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/evan/RailsApps/broadmac'
-let g:netrw_dirhist_2='/home/evan/RailsApps/broadmac/app'
-let g:netrw_dirhist_3='/home/evan/RailsApps/broadmac/app/models'
-let g:netrw_dirhist_4='/home/evan/PadrinoProjects/sample_blog'
-let g:netrw_dirhist_5='/home/evan/PadrinoProjects/sample_blog/app'
-let g:netrw_dirhist_6='/home/evan/PadrinoProjects/sample_blog/app/models'
-let g:netrw_dirhist_7='/home/evan/PadrinoProjects/aitenvirotech/app/views/mailers/contact'
-let g:netrw_dirhist_8='/home/evan/.vim'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/evan/RailsApps/haggl_me/spec/factories'
+let g:netrw_dirhist_2='/home/evan/RailsApps/haggl_me/app/controllers/users'
+let g:netrw_dirhist_3='/home/evan/RailsApps/haggl_me/spec/factories'
+let g:netrw_dirhist_4='/home/evan/RailsApps/haggl_me_prologue/spec/factories'
+let g:netrw_dirhist_5='/home/evan/RailsApps/haggl_me/db/migrate'

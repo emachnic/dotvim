@@ -74,3 +74,6 @@ nmap <D-[> <<
 nmap <D-]> >>
 vmap <D-[> <gv
 vmap <D-]> >gv
+
+"Matchit
+runtime macros/matchit.vim
